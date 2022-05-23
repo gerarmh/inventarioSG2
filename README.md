@@ -1,0 +1,2 @@
+# inventarioSG2
+PRACTICA DE EXAMEN
